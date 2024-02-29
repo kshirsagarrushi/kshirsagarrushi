@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-nine-livid.vercel.app/](https://personal-portfolio-nine-livid.vercel.app/)
 
-- 💬 Ask me about **HTML5,CSS3,react,javascript,c++,api's,os,Mysql,DBMS**
+- 💬 Ask me about **HTML5,CSS3,React.js,Javascript,C++,REST API's,OS,Mysql,DBMS**
 
 - 📫 How to reach me **kshirsagarrushi8102002@gmail.com**
 
