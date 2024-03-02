@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mail Automation For Conference and Event Invitation**
 
-- 🌱 I’m currently learning **angular.js and Tablue**
+- 🌱 I’m currently learning **angular.js, Tablue and Devops**
 
 - 👯 I’m looking to collaborate on **innovative frontend projects**
 
