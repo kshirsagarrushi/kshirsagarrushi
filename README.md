@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh kshirsagar</h1>
 <h3 align="center">A passionate full stack developer from Pune,India</h3>
 
-- 🔭 I’m currently working on **Mail Automation For Conference and Event Invitation**
 
 - 🌱 I’m currently learning **angular.js, Tablue and Devops**
 
