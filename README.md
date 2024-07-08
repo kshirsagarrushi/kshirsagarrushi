@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kshirsagarrushi8102002@gmail.com**
 
-- 📄 Know about my experiences [here] (https://drive.google.com/file/d/1IT1Ye18YxZPqcqtVuj6xHxhTLvKS1ADa/view?usp=sharing)
+- 📄 Know about my experiences <a src ="https://drive.google.com/file/d/1IT1Ye18YxZPqcqtVuj6xHxhTLvKS1ADa/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
