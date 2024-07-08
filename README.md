@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **kshirsagarrushi8102002@gmail.com**
 
-- 📄 Know about my experiences
-
-<a src ="https://drive.google.com/file/d/1IT1Ye18YxZPqcqtVuj6xHxhTLvKS1ADa/view?usp=sharing">here</a>
+- 📄 Know about my experiences here [https://drive.google.com/file/d/1IT1Ye18YxZPqcqtVuj6xHxhTLvKS1ADa/view?usp=sharing](https://drive.google.com/file/d/1IT1Ye18YxZPqcqtVuj6xHxhTLvKS1ADa/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rushikesh-kshirsagar-865963207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-kshirsagar-865963207" height="30" width="40" /></a>
