@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Pune,India</h3>
 
 
-- 🌱 I’m currently learning **angular.js, Tablue and Devops**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **innovative frontend projects**
 
